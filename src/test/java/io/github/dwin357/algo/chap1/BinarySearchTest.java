@@ -4,9 +4,7 @@ import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.Stopwatch;
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 import java.util.NoSuchElementException;
 
 import static org.junit.jupiter.api.Assertions.*;
